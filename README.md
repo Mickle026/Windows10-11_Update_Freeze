@@ -1,6 +1,9 @@
 # Windows Utility Appliance Controller
 
-WinFreezeUpdates.jpg
+## 📸 Screenshot
+
+![Screenshot](https://github.com/Mickle026/Windows10-11_Update_Freeze/blob/master/WindowsUpdateFreeze/WinFreezeUpdates.jpg?raw=true)
+
 
 A lightweight WinForms tool that lets you turn a Windows machine into a quiet, stable “utility appliance” — and reverse the changes when needed.
 
