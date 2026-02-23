@@ -1,5 +1,7 @@
 # Windows Utility Appliance Controller
 
+WinFreezeUpdates.jpg
+
 A lightweight WinForms tool that lets you turn a Windows machine into a quiet, stable “utility appliance” — and reverse the changes when needed.
 
 Designed for scenarios like:
